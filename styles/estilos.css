@@ -37,6 +37,9 @@ padding: 10px; }
 .contenedordivsflex {
     border: 2px solid green;
     display: flex;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
 
 }
  
